@@ -11,7 +11,7 @@ import SwiftUI
 struct Little_black_diceApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }
